@@ -90,6 +90,7 @@ int main ()
 
     }
 ```
-
+hasilnya:
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/UTS_Algoritma/master/soal2/ss%20soal2.jpg)
 
 # UTS_Algoritma
