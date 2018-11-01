@@ -48,6 +48,7 @@ int main ()
 ```
 hasilnya:
 ![ing](https://raw.githubusercontent.com/AyuLestariKabbi/UTS_Algoritma/master/soal1/Hasil_A.png)
+![ing](
 
 **Soal Program**
 
